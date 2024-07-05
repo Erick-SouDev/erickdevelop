@@ -20,7 +20,7 @@
 
 :root {
   --nav-color: #ffffff;
-  --nav-hover-color: #1619cc;
+  --nav-hover-color: #223;
   --nav-dropdown-color: #212529;
   --nav-dropdown-hover-color: #cc1616;
   --nav-dropdown-background-color: #ffffff;
@@ -63,7 +63,7 @@ h6 {
 
 .header {
   /*/--background-color: #242424;*/
-  --background-color:  #120a8f;
+  --background-color:  #222;
   --default-color: #ffffff;
   --default-color-rgb: 255, 255, 255;
   --heading-color: #ffffff;
@@ -429,7 +429,7 @@ h6 {
 
 
 .footer {
-  --background-color: #120a8f;
+  --background-color: #222;
   /*--background-color: #0c0c0c;*/
 
   --default-color: #ffffff;
